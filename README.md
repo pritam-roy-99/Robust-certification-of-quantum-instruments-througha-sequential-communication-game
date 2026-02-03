@@ -1,0 +1,2 @@
+# Robust-certification-of-quantum-instruments-througha-sequential-communication-game
+A sequential communication game with one sender and two receivers showing clear quantum advantage. The trade-off between receiver success probabilities enables semi–device-independent self-testing of preparations, instruments, and measurements, with improved robustness and stronger quantum advantage in higher dimensions.
