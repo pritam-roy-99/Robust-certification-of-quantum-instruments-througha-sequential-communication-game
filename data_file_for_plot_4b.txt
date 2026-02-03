@@ -1,0 +1,6 @@
+# d_value    P_Charlie_ana    P_Charlie_lower    P_Charlie_upper
+2           0.5               0.750              0.5
+3           0.333             0.642              0.336
+4           0.25              0.581              0.257
+5           0.2               0.534              0.21
+6           0.167             0.498              0.175
